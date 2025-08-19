@@ -2,6 +2,11 @@
 
 A modern web application that helps people apply to jobs at scale with resume customization and swipe functionality.
 
+<div align="left">
+  <img alt="tailorswipe1" src="https://github.com/user-attachments/assets/1085b5c4-9afe-4430-b5ea-42b32690333d" width="40%" />
+  <img alt="tailorswipe2" src="https://github.com/user-attachments/assets/5d70d235-917a-4bce-967f-1ebbda7ff664" width="30%" />
+</div>
+
 ## 🎯 How It Works
 
 ### 1. Resume Input
